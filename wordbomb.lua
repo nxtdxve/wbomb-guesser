@@ -4364,7 +4364,7 @@ local KeyCodes = {
     X = 0x58,
     Y = 0x59,
     Z = 0x5B
-} -- Decimal to Hex ( definitiv ned eine geklaute idee )
+}
 
 local library = loadstring(game:HttpGet("https://pastebin.com/raw/FdEHWNTG"))() -- gui libary
 
